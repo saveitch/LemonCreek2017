@@ -5,7 +5,7 @@ If using this data please DO NOT cite this repository directly.  Please cite the
 
 Stephen A. VEITCH, Marianne KARPLUS, Galen KAIP, Lucia F. GONZALEZ, Jason M. AMUNDSON, Timothy C. BARTHOLOMAUS (2021), Ice Thickness Estimates of Lemon Creek Glacier, Alaska from Active-Source Seismic Imaging, Journal of Glaciology, doi: 
 
-# File Formatting
+## File Formatting
 Metadata is included as csv files with 3 header rows:
 1) Description of file origin and citation information
 2) Table caption
