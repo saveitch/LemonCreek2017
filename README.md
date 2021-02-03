@@ -11,5 +11,5 @@ Metadata is included as csv files with 3 header rows:
 2) Table caption
 3) Column labels
 
-# Data Format
+## Data Format
 All data is projected in the horizontal datum of WGS84 / UTM Zone 8 North (EPSG:32608). Elevations are relative to the WGS84 ellipsoid.
